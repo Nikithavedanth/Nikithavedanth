@@ -13,4 +13,3 @@ Here are some ideas to get you started:
 - 📫 How to reach me nikithavedanth@gmail.com
 - 😄 Pronouns me nikki
 - ⚡ Fun fact Koals are cute living animals with life span of 300 years
--->

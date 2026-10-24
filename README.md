@@ -15,9 +15,6 @@ With experience across **Java, Spring Boot, Angular, React.js, Next.js, Node.js,
 - 😄 **Pronouns:** She/Her
 - ⚡ **Fun fact:** I enjoy learning by building, solving engineering challenges, and continuously improving software performance, reliability, and user experience.
 
----
-
-
 ## 🛠️ Technical Skills
 
 ### 💻 Programming Languages

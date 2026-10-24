@@ -179,11 +179,11 @@ Mahatma Gandhi Institute of Technology, Hyderabad, India | 2018–2022
 
 I'm always interested in connecting with developers, collaborating on meaningful projects, and exploring opportunities to build useful software.
 
-- 💼 **LinkedIn:** [Connect with me](YOUR_LINKEDIN_URL)
-- 💻 **GitHub:** [Explore my repositories](YOUR_GITHUB_URL)
-- 🌐 **Portfolio:** [Visit my portfolio](YOUR_PORTFOLIO_URL)
+- 💼 **LinkedIn:** [Connect with me](https://www.linkedin.com/in/nikitha-vedant-madabhushi-0643b1182/)
+- 💻 **GitHub:** [Explore my repositories]([YOUR_GITHUB_URL](https://github.com/nikithavedanth))
+- 🌐 **Portfolio:** [Visit my portfolio](https://nikithavedanth.github.io)
 - 📧 **Email:** [nikithavedanth@gmail.com](mailto:nikithavedanth@gmail.com)
-- 🧩 **LeetCode:** [View my profile](YOUR_LEETCODE_URL)
+- 🧩 **LeetCode:** [View my profile](https://leetcode.com/u/Nikithavedanth/)
 
 ---
 

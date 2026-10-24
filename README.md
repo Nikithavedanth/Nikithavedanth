@@ -1,16 +1,34 @@
 ## Hi there 👋
 
-<!--
-**Nikithavedanth/Nikithavedanth** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m Nikitha Vedanth, a software developer who enjoys building practical, user-focused solutions and turning ideas into real products.
 
-Here are some ideas to get you started:
+### About me
+- 🔭 I’m currently working on building and improving software projects that solve real-world problems.
+- 🌱 I’m currently learning modern web technologies, software engineering best practices, and emerging tools that improve product development.
+- 🤝 I’m looking to collaborate on innovative projects, open-source work, and opportunities to grow as a developer.
+- 💬 Ask me about software development, web applications, problem solving, and product-focused engineering.
+- 📫 How to reach me: [LinkedIn](#) | [Email](mailto:your.email@example.com) | [Portfolio](#)
+- 😄 Pronouns: she/her
+- ⚡ Fun fact: I enjoy learning by building and continuously improving the way software works for people.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Skills
+- Languages: JavaScript, TypeScript, Python, Java, SQL
+- Frontend: HTML, CSS, React, Next.js, Responsive UI
+- Backend: Node.js, REST APIs, Authentication, Database integration
+- Databases: MySQL, PostgreSQL, MongoDB
+- Tools & Practices: Git, GitHub, Docker, Agile workflows, Debugging, Testing
+
+### Experience
+- Built and contributed to projects across frontend and backend development, focusing on functionality, usability, and maintainability.
+- Worked on problem-solving and software design to deliver clean, scalable solutions.
+- Collaborated with teams and stakeholders to turn requirements into working products.
+
+### Projects
+- [Project Name] — A user-focused application built to solve a practical challenge with clean UI and efficient implementation.
+- [Project Name] — A software solution focused on usability, performance, and maintainability.
+- [Project Name] — A project showcasing problem-solving, design thinking, and engineering execution.
+
+### Let’s connect
+I’m always open to meaningful conversations, collaborations, and opportunities to learn and build together.
+
+[LinkedIn](#) • [GitHub](https://github.com/Nikithavedanth) • [Email](mailto:your.email@example.com)

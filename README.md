@@ -1,18 +1,19 @@
-# Hi, I'm Nikitha Vedant Madabhushi👋
+# Hi, I'm Nikitha Vedant Madabhushi 👋
 
 ### Software Developer | Full-Stack Engineer | Java & React
 
-I'm a software developer passionate about building practical, scalable, and user-focused applications. I enjoy turning ideas into reliable software solutions, developing end-to-end features, and improving application performance, security, and usability.
+I'm a software developer experienced in building scalable, secure, and user-focused applications across enterprise banking, payment processing, web development, and supply chain management. I enjoy developing end-to-end software solutions, integrating backend services with responsive user interfaces, optimizing database performance, and delivering reliable applications that solve real-world problems.
 
-With experience across **full-stack development, backend engineering, enterprise applications, cloud technologies, and AI/ML**, I enjoy working across the software development lifecycle—from designing responsive user interfaces to building APIs, integrating databases, and deploying applications.
+With experience across **Java, Spring Boot, Angular, React.js, Next.js, Node.js, TypeScript, SQL, cloud technologies, and AI/ML**, I have contributed to enterprise applications, centralized payment processing systems, account-opening workflows, REST API integrations, and cloud deployments. My work includes supporting a payment processing system handling **100K+ transactions monthly with 99.9% uptime**, reducing client-to-gateway request latency by 30%, and improving database query response times by 25%.
 
-- 🔭 **Currently working on:** Building and enhancing enterprise software solutions.
-- 🌱 **Currently learning:** Modern web technologies, software engineering best practices, and emerging AI tools.
-- 💻 **Areas of interest:** Full-stack development, backend engineering, system integration, and AI-powered applications.
-- 🤝 **Open to:** Meaningful collaborations, open-source contributions, and opportunities to build impactful products.
-- 💬 **Ask me about:** Java, Spring Boot, React, Angular, REST APIs, databases, and software development.
+- 🔭 **Currently working on:** Enterprise banking applications at Pittsburgh National Corporation, including BBDDA account-opening workflows, fraud-service integration, and full-stack feature development using Angular, Spring Boot, and Micron.
+- 🌱 **Currently learning:** Modern web technologies, software engineering best practices, scalable application design, and emerging AI tools.
+- 💻 **Areas of interest:** Full-stack development, backend engineering, enterprise application development, API integration, database optimization, cloud technologies, and AI-powered applications.
+- 🤝 **Open to:** Meaningful collaborations, open-source contributions, innovative software projects, and opportunities to build impactful products.
+- 💬 **Ask me about:** Java, Spring Boot, React.js, Angular, Next.js, Node.js, REST APIs, SQL, PostgreSQL, MongoDB, AWS, and full-stack development.
+- 🎓 **Education:** M.S. in Applied Computer Science from Northwest Missouri State University, with a 3.9 GPA.
 - 😄 **Pronouns:** She/Her
-- ⚡ **Fun fact:** I enjoy learning by building projects and continuously improving how software works for people.
+- ⚡ **Fun fact:** I enjoy learning by building, solving engineering challenges, and continuously improving software performance, reliability, and user experience.
 
 ---
 

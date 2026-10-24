@@ -1,4 +1,4 @@
-# Hi, I'm Nikitha Vedanth 👋
+# Hi, I'm Nikitha Vedant Madabhushi👋
 
 ### Software Developer | Full-Stack Engineer | Java & React
 

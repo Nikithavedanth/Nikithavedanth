@@ -18,16 +18,6 @@ I’m Nikitha Vedanth, a software developer who enjoys building practical, user-
 - Databases: MySQL, PostgreSQL, MongoDB
 - Tools & Practices: Git, GitHub, Docker, Agile workflows, Debugging, Testing
 
-### Experience
-- Built and contributed to projects across frontend and backend development, focusing on functionality, usability, and maintainability.
-- Worked on problem-solving and software design to deliver clean, scalable solutions.
-- Collaborated with teams and stakeholders to turn requirements into working products.
-
-### Projects
-- [Project Name] — A user-focused application built to solve a practical challenge with clean UI and efficient implementation.
-- [Project Name] — A software solution focused on usability, performance, and maintainability.
-- [Project Name] — A project showcasing problem-solving, design thinking, and engineering execution.
-
 ### Let’s connect
 I’m always open to meaningful conversations, collaborations, and opportunities to learn and build together.
 

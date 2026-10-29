@@ -6,7 +6,7 @@ I'm a software developer experienced in building scalable, secure, and user-focu
 
 With experience across **Java, Spring Boot, Angular, React.js, Next.js, Node.js, TypeScript, SQL, cloud technologies, and AI/ML**, I have contributed to enterprise applications, centralized payment processing systems, account-opening workflows, REST API integrations, and cloud deployments. My work includes supporting a payment processing system handling **100K+ transactions monthly with 99.9% uptime**, reducing client-to-gateway request latency by 30%, and improving database query response times by 25%.
 
-- 🔭 **Currently working on:** Enterprise banking applications at Pittsburgh National Corporation, including BBDDA account-opening workflows, fraud-service integration, and full-stack feature development using Angular, Spring Boot, and Micron.
+- 🔭 **Currently working on:** Enterprise banking applications at Pittsburgh National Corporation, including BBDDA account-opening workflows, fraud-service integration, and full-stack feature development using Harmony, Angular, Spring Boot, and Micron.
 - 🌱 **Currently learning:** Modern web technologies, software engineering best practices, scalable application design, and emerging AI tools.
 - 💻 **Areas of interest:** Full-stack development, backend engineering, enterprise application development, API integration, database optimization, cloud technologies, and AI-powered applications.
 - 🤝 **Open to:** Meaningful collaborations, open-source contributions, innovative software projects, and opportunities to build impactful products.
